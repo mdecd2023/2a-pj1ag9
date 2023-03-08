@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '\xa0 \n 這是計算機程式課程 2021 Fall 的作業倉儲與網站 template \n 41023130 \n 網站倉儲:\xa0 https://github.com/41023130/cp2021_hw \xa0 \n 網站連結:   \xa0 https://41023130.github.io/cp2021_hw/ \n 你好8 3', 'tags': '', 'url': 'About.html'}, {'title': '4', 'text': '\n \n', 'tags': '', 'url': '4.html'}]};
